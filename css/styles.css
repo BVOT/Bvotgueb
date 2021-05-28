@@ -1,0 +1,43 @@
+:root {
+    font-size: 18px;
+}
+
+body{
+    color:#424242;
+}
+
+a{
+    color: #424242;
+}
+
+header{
+    font-size: 14px;
+    color: #616161
+}
+
+header a{
+    color: #AA1717;
+    text-decoration: none;
+}
+
+header a:hover{
+    color: #212121
+}
+
+details summary{
+    font-weight: bold;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+
